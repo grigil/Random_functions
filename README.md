@@ -3,6 +3,6 @@
   
   Not all tasks were solved optimally and using basic programming principles.
   
-  Basically this folder is for my development and future resume.
+  Basically this folder is for my development and for fun.
   
   Each folder contains a task and its solution.
